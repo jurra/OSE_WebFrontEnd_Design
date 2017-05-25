@@ -1,5 +1,12 @@
 /* Styles go here */
 
+#floordiv{
+	height:120%;
+
+}
+
+
+
 #test {
   /*background-image:linear-gradient(to right, black 0%, white 100%), url('https://i.ytimg.com/vi/dGp4zrRpEs8/maxresdefault.jpg') !important;*/
   background-image: linear-gradient(to top, black 0%, white 100%), url("https://i.ytimg.com/vi/dGp4zrRpEs8/maxresdefault.jpg");
