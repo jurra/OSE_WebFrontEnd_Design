@@ -9,18 +9,20 @@
 
 #test {
   /*background-image:linear-gradient(to right, black 0%, white 100%), url('https://i.ytimg.com/vi/dGp4zrRpEs8/maxresdefault.jpg') !important;*/
-  background-image: linear-gradient(to top, black 0%, white 100%), url("https://i.ytimg.com/vi/dGp4zrRpEs8/maxresdefault.jpg");
+  /*background-image: linear-gradient(to top, black 0%, white 100%), url("https://i.ytimg.com/vi/dGp4zrRpEs8/maxresdefault.jpg");*/
   background-blend-mode: multiply !important;
   background-size: ;
   width:100%;
   background-repeat: no-repeat;
-	background-color: grey;
+	background-color: orange;
 }
 
 #test2 {
-  background-image: url("http://www.footiemap.com/country/england/maps/london.jpg");
+  /*background-image: url("http://www.footiemap.com/country/england/maps/london.jpg");*/
   background-size: cover;
   background-repeat: no-repeat;
+	background-color: grey;
+}
 }
 
 
@@ -36,8 +38,9 @@
 }*/
 
 #abc {
-  background-image: url("http://currion.net/wp-content/uploads/2015/11/Global_Village_Construction_Set.jpg");
+  /*background-image: url("http://currion.net/wp-content/uploads/2015/11/Global_Village_Construction_Set.jpg");*/
   background-size:cover;
   height:1000px;
+	background-color:black;
 
 }
