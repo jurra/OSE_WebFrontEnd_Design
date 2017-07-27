@@ -1,0 +1,11 @@
+Step 1:Export Database
+Setp 2:Open wordpress.sql code in code editor
+	2.1: Replace the local URL with the production orange
+
+
+Setp 3: Import database
+Step 4: Modify the local configuration file to set the target database parameters so that wordpress can connect to the next database.
+	4.1. Open "wp-config" file and set: ('DB_NAME', 'DB_USER', 'DB_PASSWORD', 'DB_HOST')
+
+Step 5: Upload wordpress files to the server
+	5.1. Copy the local wordpress files to the server
